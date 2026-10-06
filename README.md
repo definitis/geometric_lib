@@ -13,11 +13,7 @@
 
 Для работы с библиотекой запустите интерактивную оболочку Python в корневом каталоге проекта:
 
-```console
-python
-```
-
-```pycon
+```python
 >>> import rectangle
 >>> rectangle.area(4, 6)
 24
